@@ -1,3 +1,17 @@
+# PERSONAL-PORTFOLIO-WEBPAGE
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: Shoaib Akhtar
+
+*INTERN ID*: CTIS6941
+
+*DOMAIN*: FRONT END DEVELOPMENT
+
+*DURATION*: 12 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 # Professional Personal Portfolio Website
 
 A complete, highly polished, and fully responsive single-page personal portfolio website designed for Front-End Developers and UI/UX Designers. This project represents a modern Web design, leveraging premium Glassmorphism layouts, robust semantic layouts, clean styling hierarchies, and native high-performance animations with progressive JS fallbacks.
