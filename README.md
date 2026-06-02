@@ -10,7 +10,7 @@
 
 *DURATION*: 12 WEEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELAM SANTOSH
 
 # Professional Personal Portfolio Website
 
